@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
+%   Copyright (c) 2023 by Sichen Yuan
 %   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   $Revision: 3.0 $  $Date: 2023/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [error_rms, deta_final, F_bestfit] = actual_rms_evalu(n_r, n_s, w_b, Node_inuse, M_indx_full, center_lengthmem)

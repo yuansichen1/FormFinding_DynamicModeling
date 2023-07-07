@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
+%   Copyright (c) 2023 by Sichen Yuan
 %   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   $Revision: 2.0 $  $Date: 2023/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function yy = equal_length_fun(xx)

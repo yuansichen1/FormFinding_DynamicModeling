@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
-%   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   Copyright (c) 2023 by Sichen Yuan
+%   Created: 2023/07/07
+%   $Revision: 1.0 $  $Date: 2023/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [nodes,nodes_s,theta_e] = ell_cal()

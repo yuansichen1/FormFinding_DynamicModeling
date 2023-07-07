@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
+%   Copyright (c) 2023 by Sichen Yuan
 %   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   $Revision: 2.0 $  $Date: 2022/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [MemberL_prop, M_indx, Node_design,B_C, Indx_node_load, L_t, L_t_nobc, F, D] = AutoMesh(n_r, n_s, n_c, rou, c_b, ratio_zeta, w_b)

@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
-%   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   Copyright (c) 2023 by Sichen Yuan
+%   Created: 2022/08/01
+%   $Revision: 2.0 $  $Date: 2023/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [n_r, n_c, zeta_final, wb_final, MemberL_prop,M_indx, Node_design,Node_design_global, B_C, Indx_node_load, L_t, L_t_nobc, F, D, e_p] = designattempt(tao_r, n_s, tao_c, rou, c_b, flag_wb, w_b)

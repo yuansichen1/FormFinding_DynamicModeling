@@ -1,6 +1,6 @@
 clear
 clc
- 
+
 % Setup the desired shape and required operating frequency
 F_required = 8;
 D_required = 10;

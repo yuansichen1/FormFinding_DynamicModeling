@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   Copyright (c) 2022 by Sichen Yuan
-%   Created: 2022/05/30
-%   $Revision: 1.0 $  $Date: 2022/05/30 $
+%   Copyright (c) 2023 by Sichen Yuan
+%   Created: 2023/01/01
+%   $Revision: 2.0 $  $Date: 2022/07/07 $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [D_bestfit, D_mod, F_mod, D_ca_bestfit, e_off_bestfit, D_p_bestfit, F_p_mod, D_p_mod, e_off_mod] = bestfitcompe(deta_bestfit,F_bestfit,F_surface,D_surface,e_surface)
